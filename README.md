@@ -1,3 +1,5 @@
+# Now managed in https://github.com/sapcc/fedipa
+
 # fedIPA
 
 ## Description
